@@ -1,9 +1,6 @@
 # IT Help Desk Home Lab
- 
 A home lab built in VirtualBox simulating a real enterprise IT environment. This project covers Active Directory setup, Group Policy configuration, user management, shared folder permissions, and help desk ticketing using Jira Service Management.
- 
----
- 
+
 ## Tools Used
  
 - Oracle VirtualBox
@@ -68,6 +65,7 @@ Simulated a help desk password reset by right-clicking a user in the HR OU and s
 - Security Group: HR-Team
  
 ![Password Reset](Screenshots/VirtualBox_WindowsServer20_14_03_2026_16_28_39.png)
+
  
 ---
  
